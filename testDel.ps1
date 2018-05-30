@@ -1,4 +1,13 @@
-﻿$Path = ''
+﻿#
+# Author: Tim Johnson
+#
+#
+#
+#
+#
+############################
+
+$Path = ''
 $Days = '4'
 #Dir = Get-Childitem $Path  -Recurse
 #Get-Childitem $Path -Recurse |? {$_.PSIsContainer -eq $true} | ?{ $_.GetFiles()} 
