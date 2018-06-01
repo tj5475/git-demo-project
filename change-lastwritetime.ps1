@@ -18,8 +18,6 @@ change-LastWriteTime -path 'F:\TestDel\parent1\child1_1' -days 7
 
 
 
-#change-LastWriteTime -path 'F:\testdel\parent3' -days 7
-
 
 
 
