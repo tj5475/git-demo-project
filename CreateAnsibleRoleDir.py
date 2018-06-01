@@ -20,7 +20,7 @@ for folder in roleFolders:
     if not os.path.exists(folder):
         os.mkdir(folder)
 
-
+# create main.yml in ymlfolder
 for ymlFolder in ymlFolders:
     ymlPath = os.path.join(ymlFolder, ymlFile)
     if not os.path.exists(ymlPath):
