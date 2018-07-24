@@ -15,7 +15,7 @@ $folder = Get-Childitem $Path -Recurse |? {$_.PSIsContainer -eq $true} | ?{ !$_.
 foreach ($f in $folder){
 
 Remove-Item $f.fullname -Recurse -Confirm:$false -WhatIf
-
+# added for testing 
 
 }
 
