@@ -1,5 +1,5 @@
 #
-#  Create a ansible role Structure in windows
+#  Create ansible role folder structure
 
 import os
 
