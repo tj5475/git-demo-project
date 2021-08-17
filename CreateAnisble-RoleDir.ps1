@@ -1,6 +1,6 @@
 ﻿# make ansible role folder structure 
-$role_name = 'install_ansible'                      
-$role_path = 'F:\Scripts\ansible_cent\roles'
+$role_name = ''                      
+$role_path = ''
 
 New-Item -Path $role_path -Name $role_name -ItemType Directory
 
